@@ -1,1 +1,1 @@
-# Edible-Mushroom-Classification
+# Edible-Mushrooms-Classification
